@@ -1,3 +1,4 @@
+#  127949296 - ID
 def platform_counter(lst_of_weights: list[int], limit: int) -> int:
     """
     Функция считает количество платформ, которые могут быть использованы
